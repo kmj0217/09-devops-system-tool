@@ -1,7 +1,3 @@
----
-typora-copy-images-to: docs
----
-
 ## 技术运营
 
 技术运营是从技术方面支撑与完善IT系统日常运营保障、运营工具建设、运营决策辅助，从技术方面支撑业务运营，提升IT的业务价值，获得可持续竞争优势。
@@ -253,7 +249,7 @@ typora-copy-images-to: docs
 - 应能够根据实际情况的需求，灵活的定制告警采集规则。
 - 告警级别包含：轻微、一般、重要、严重。
 
-![告警处理过程](D:\work\CloudSyn\腾讯云同步盘\泰岳售前\20190604_DevOps成熟度认证 系统与工具 技术运营部分\docmm@09-devops-system-tool\09-devops-system-tool\docs\告警处理过程.jpg)
+![告警处理过程](docs\告警处理过程.jpg)
 
 —— 可视化管理
 
